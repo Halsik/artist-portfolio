@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/artist-portfolio/static/css/main.fb8f310f.css",
-    "main.js": "/artist-portfolio/static/js/main.268e8435.js",
+    "main.js": "/artist-portfolio/static/js/main.a2a24d0a.js",
     "static/media/paintingVideo.mp4": "/artist-portfolio/static/media/paintingVideo.d827ee32b68f9bcbcb35.mp4",
     "static/media/3.jpeg": "/artist-portfolio/static/media/3.a0125b3905bd63a15b61.jpeg",
     "static/media/contact-background.jpeg": "/artist-portfolio/static/media/contact-background.113090a04990ebbe76f5.jpeg",
@@ -17,10 +17,10 @@
     "static/media/about-photo3.avif": "/artist-portfolio/static/media/about-photo3.5ca6ba8c76fe3e4a3045.avif",
     "index.html": "/artist-portfolio/index.html",
     "main.fb8f310f.css.map": "/artist-portfolio/static/css/main.fb8f310f.css.map",
-    "main.268e8435.js.map": "/artist-portfolio/static/js/main.268e8435.js.map"
+    "main.a2a24d0a.js.map": "/artist-portfolio/static/js/main.a2a24d0a.js.map"
   },
   "entrypoints": [
     "static/css/main.fb8f310f.css",
-    "static/js/main.268e8435.js"
+    "static/js/main.a2a24d0a.js"
   ]
 }
