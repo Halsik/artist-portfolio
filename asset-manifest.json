@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/artist-portfolio/static/css/main.fb8f310f.css",
+    "main.js": "/artist-portfolio/static/js/main.268e8435.js",
+    "static/media/paintingVideo.mp4": "/artist-portfolio/static/media/paintingVideo.d827ee32b68f9bcbcb35.mp4",
+    "static/media/3.jpeg": "/artist-portfolio/static/media/3.a0125b3905bd63a15b61.jpeg",
+    "static/media/contact-background.jpeg": "/artist-portfolio/static/media/contact-background.113090a04990ebbe76f5.jpeg",
+    "static/media/1.jpg": "/artist-portfolio/static/media/1.f9c92f6b3007658ade04.jpg",
+    "static/media/5.jpeg": "/artist-portfolio/static/media/5.c04fc7f27c3245faf2e5.jpeg",
+    "static/media/2.jpeg": "/artist-portfolio/static/media/2.d2d2427405ee8ef1b5b9.jpeg",
+    "static/media/about-background.avif": "/artist-portfolio/static/media/about-background.bcfa5bdbe8994e297ca0.avif",
+    "static/media/about-photo.avif": "/artist-portfolio/static/media/about-photo.8cf7d5e62cfad7c4a6ec.avif",
+    "static/media/6.jpeg": "/artist-portfolio/static/media/6.f0f8aaa8c74dcaa645b1.jpeg",
+    "static/media/7.jpeg": "/artist-portfolio/static/media/7.30978a61c0ae01859e88.jpeg",
+    "static/media/4.jpeg": "/artist-portfolio/static/media/4.0bdb5ab21fdb8d23b198.jpeg",
+    "static/media/about-photo2.avif": "/artist-portfolio/static/media/about-photo2.2ba08fe1fb69c5b460e2.avif",
+    "static/media/about-photo3.avif": "/artist-portfolio/static/media/about-photo3.5ca6ba8c76fe3e4a3045.avif",
+    "index.html": "/artist-portfolio/index.html",
+    "main.fb8f310f.css.map": "/artist-portfolio/static/css/main.fb8f310f.css.map",
+    "main.268e8435.js.map": "/artist-portfolio/static/js/main.268e8435.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb8f310f.css",
+    "static/js/main.268e8435.js"
+  ]
+}
