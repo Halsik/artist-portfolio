@@ -1,0 +1,60 @@
+.home-container {
+    height: 100vh;
+    width: 100%;
+    background-color: #090909;
+   
+}
+
+.home-main {
+    position: relative;
+    height: 75%;
+    opacity: 0.9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation-name: showPage;
+    animation-duration: 1s;
+}
+
+.background-video {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.home-header {
+   color: black;
+   font-family: 'Qwigley', cursive;
+    font-size: 9rem;
+}
+
+@keyframes showPage {
+    from {opacity: 0;}
+    to {opacity: 1;}
+  }
+
+  @media only screen and (max-width: 1000px) {
+        .home-header {
+            font-size: 6rem;
+        }
+    }
+
+    @media only screen and (max-width: 600px) {
+        .home-header {
+            font-size: 4rem;
+        }
+    }
+
+
+    @media only screen and (max-width: 450px) {
+        .home-header {
+            font-size: 3rem;
+        }
+    }
+
+
+

@@ -1,0 +1,8 @@
+.painting-header {
+    animation-name: showText;
+    animation-duration: 1s;
+}
+.paiting-details {
+    animation-name: showText;
+    animation-duration: 1s;
+}

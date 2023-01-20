@@ -1,0 +1,40 @@
+.paiting-container {
+    height: 83%;
+    width: 70%;
+    animation-name: showPagePortfolio;
+    animation-duration: 2s;
+}
+
+.paiting {
+    height: 100%;
+    box-shadow: 0 0 10px #090909;
+    width: 100%;
+    object-fit: cover;
+    animation-name: showPagePaiting;
+    animation-duration: 3s;
+}
+
+@keyframes showPagePortfolio {
+    0% {opacity: 0;
+    }
+
+    30% {
+        opacity: 1;
+    }
+    100% {opacity: 1;
+    }
+  }
+
+  @keyframes showPagePaiting {
+    0% {opacity: 0;
+    
+transform: translateY(25px);}
+
+    30% {
+        opacity: 1;
+        transform: translateY(0px);
+    }
+    100% {opacity: 1;
+    
+    transform: translateY(0px)}
+  }

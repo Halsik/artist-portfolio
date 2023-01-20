@@ -1,0 +1,101 @@
+.contact-container {
+    height: 100vh;
+    width: 100%;
+    background-color: #090909;
+}
+
+.contact-content-container {
+    height: 75%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.contact-background {
+    z-index: 0;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    height: 100%;
+    opacity: 0.15;
+    object-fit: cover;
+    animation-name: showImage;
+    animation-duration: 3s;
+    
+}
+
+.contact-info {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    
+
+}
+
+.contact-details {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+
+.details-container {
+    height: 80%;
+    width: 60%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.contact-box {
+    color: white;
+    height: 20%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+    animation-name: showText;
+    animation-duration: 2.5s;
+}
+
+.contact-header {
+    font-size: 4rem;
+    font-family: 'Qwigley', cursive;
+}
+
+.contact-text {
+    font-family: 'Alegreya', serif;
+    font-size: 2rem;
+}
+
+@keyframes showPage {
+    from {opacity: 0;}
+    to {opacity: 1;}
+  }
+
+  @media only screen and (max-width: 800px) {
+    .contact-box {
+        height: 30%;
+        width: 100%;
+    }
+
+    .contact-header {
+        font-size: 2.5rem;
+    }
+
+    .contact-text {
+        font-size: 1.5rem;
+    }
+}
